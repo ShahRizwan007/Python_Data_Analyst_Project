@@ -28,4 +28,4 @@ Explore the full project here:
 - **Dataset Link:** 
 
 ## 📂 Files
-- **Diwali_Sales_Analysis.ipynb:** Jupyter Notebook containing data cleaning, analysis, and visualization code.
+- **Diwali_Sales_Analysis.ipynb:** [Jupyter Notebook containing data cleaning, analysis, and visualization code](https://github.com/ShahRizwan007/Python_Diwali_Sales_Data_Analyst_Project/blob/main/Diwali%20sales%20analysis%20in%20python.ipynb).
