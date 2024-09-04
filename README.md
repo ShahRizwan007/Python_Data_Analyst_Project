@@ -25,7 +25,7 @@ The Diwali Sales Data Analysis covers various aspects of the sales data, includi
 Explore the full project here:
 
 ## 📂 Dataset
-- **Dataset Link:** 
+- **Dataset Link:** https://github.com/ShahRizwan007/Python_Diwali_Sales_Data_Analyst_Project/blob/main/Diwali%20Sales%20Data.csv
 
 ## 📂 Files
 - **Diwali_Sales_Analysis.ipynb:** [Jupyter Notebook containing data cleaning, analysis, and visualization code](https://github.com/ShahRizwan007/Python_Diwali_Sales_Data_Analyst_Project/blob/main/Diwali%20sales%20analysis%20in%20python.ipynb).
